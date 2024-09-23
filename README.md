@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/johnmutave1" target="blank"><img src="https://img.shields.io/twitter/follow/johnmutave1?logo=twitter&style=for-the-badge" alt="johnmutave1" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio Project_Finale**
-
-- 🌱 I’m currently learning **Software Engineering@Alx_Africa**
+- 🌱 I’m a graduate at KCA University for BSC. in Applied Computing, CCNA 1, 2 and 3
+- 🔭  I’m currently working on **Portfolio Project_Finale**
+- 🌱  I’m currently learning **Software Engineering@Alx_Africa**
 
 - 💬 Ask me about **React,MEARN**
 
